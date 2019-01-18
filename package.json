@@ -1,0 +1,11 @@
+{
+    "name": "swgoh-sod-bot",
+    "version": "0.0.1-SNAPSHOT",
+    "description": "Bot del gremio Sons of Darkness para SWGoH",
+    "author": "pere.bueno@gmail.com",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "discord.js": "^11.4.2",
+        "winston": "^3.1.0"
+    }
+}
